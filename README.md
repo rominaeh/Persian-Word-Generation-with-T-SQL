@@ -1,0 +1,1 @@
+# Persian-Word-Generation-with-T-SQL
